@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **WonhyeongChae/WonhyeongChae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 🌐 Portfolio
-[![Netlify Status](https://shields.io)](https://wchaefolio.netlify.app/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/프로젝트_ID/deploy-status)](https://app.netlify.com/projects/wchaefolio/deploys)
+[![Visit Portfolio](https://img.shields.io/badge/Visit-Portfolio-00C7B7?logo=netlify&logoColor=white)](https://wchaefolio.netlify.app/)
