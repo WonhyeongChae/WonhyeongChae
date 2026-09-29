@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Wchaefolio Preview](https://microlink.io)](https://wchaefolio.netlify.app/)
+# 🌐 Portfolio
+[![Netlify Status](https://shields.io)](https://wchaefolio.netlify.app/)
+
