@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 # 🌐 Portfolio
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/프로젝트_ID/deploy-status)](https://app.netlify.com/projects/wchaefolio/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4d8f3f9e-6ded-46da-855f-7a20af636201/deploy-status)](https://app.netlify.com/projects/wchaefolio/deploys)
 [![Visit Portfolio](https://img.shields.io/badge/Visit-Portfolio-00C7B7?logo=netlify&logoColor=white)](https://wchaefolio.netlify.app/)
